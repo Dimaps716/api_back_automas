@@ -15,10 +15,7 @@ In the terminal located in the folder where you want to save this project, execu
 ```
 git clone https://github.com/Dimaps716/api_back_automas
 ```
-move to developer branch.
-```
-git checkout developer
-```
+
 run project dependencies.
 (https://m-monroyc22.medium.com/configurar-entorno-virtual-python-a860e820aace)
 ```
